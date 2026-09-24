@@ -1,4 +1,4 @@
-# PHASE-MODULATION-USING-SCILAB---T1---M4---ODD
+8# PHASE-MODULATION-USING-SCILAB---T1---M4---ODD
 
 
 ## Aim
@@ -39,7 +39,22 @@ Where:
    * Compute the phase-modulated signal $s(t) = A_c \cos(2\pi f_c t + k_p m(t))$.
 6. **Plot the Signals:**
    * Use Scilab's plotting commands (`subplot`, `plot`, `xtitle`, `xgrid`) to display message, carrier, and modulated signals.
+  
+# TABULATION
+<img width="1280" height="662" alt="image" src="https://github.com/user-attachments/assets/308d71ba-100a-45e6-9715-47f8f0ef65d0" />
 
----
+# CALCULATION
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e0707017-9c5b-4bf1-9e6c-201ac0186d71" />
 
-## MODEL GRAPH
+# GRAPH
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/ff695be3-9d10-40cb-8067-2ca480601830" />
+
+# CODE
+<img width="1063" height="974" alt="image" src="https://github.com/user-attachments/assets/26ea7628-6356-4cd3-8d5f-aad672e4b4ef" />
+<img width="1080" height="946" alt="image" src="https://github.com/user-attachments/assets/8158e7bf-4fe8-4508-82c9-782787b209e5" />
+
+# MARK SPLIT-UP
+<img width="1045" height="537" alt="image" src="https://github.com/user-attachments/assets/35459ace-e017-4f55-bb2b-5edd2a4208d1" />
+
+# RESULT
+<img width="1080" height="515" alt="image" src="https://github.com/user-attachments/assets/0175641e-f27d-4744-a6e3-0789395f79df" />
